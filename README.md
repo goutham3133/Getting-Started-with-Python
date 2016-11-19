@@ -1,7 +1,7 @@
 # Programming Foundations with Python
 Learn Object-Oriented Programming
 
-The note and problem of the course Programming Foundation in Python which is provide by Udacity
+This is my notes during took the course Programming Foundation with Python from Udacity.
 
 In this introductory programming class, you’ll learn Object-Oriented Programming, a must-have technique for software engineers that will allow you to reuse and share code easily. You’ll learn by doing, and will build byte-sized (ha!) mini projects in each lesson to learn and practice programming concepts.
 
@@ -15,3 +15,5 @@ Create and share amazing, life-hacking projects!
 This introductory course is for you if you want to be a software engineer, or if you want to collaborate with programmers. Mastering Object-Oriented Programming will propel your career in tech forward, and it’s also a great way to learn how software engineers think about solving problems.
 
 This course is free, you can register at [Udacity - Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+
+Have fun and coding !!!
